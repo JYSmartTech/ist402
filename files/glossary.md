@@ -174,6 +174,14 @@ Read the articles below to learn more:
 
 ## VirtualBox
 
+VirtualBox or also known as Oracle VM VirtualBox is a free and open-source software for x86 and AMD64/Intel64 computing architecture virtualization. VirtualBox is a powerful product that is made for enterprise use as well as home use. VirtualBox can create a virtual machine by acting as a hypervisor and allows the user to run any operating system. VirtualBox provides a high level of features and performance for the customer of the enterprise available as Open Source Software.
+
+VirtualBox runs on several operating systems such as Windows, Linux, Macintosh, and Solaris by hosting/supporting several amounts of the guest operating system. Overall, VirtualBox is a software that allows users to use an operating system on their own computer and get the experience of using it like it is actually on the real hardware system. 
+
+To learn more about VirtualBox, visit the sites below:
+- [Welcome to VirtualBox.org!](https://www.virtualbox.org/)
+- [VirtualBox](https://www.computerhope.com/jargon/v/virtualbox.htm)
+- [How to Use VirtualBox: User’s Guide](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
 
 ## Composer
 
@@ -191,18 +199,7 @@ Read the articles below to learn more:
 
 
 ## Open Educational Resources (OER)
-Open Educational Resources (OER) are a free library of open licensed resources that can be used for teaching, learning, or research. These resources are typically used in higher education. Users of OER are able to engage in any of the 5R activities. These include:
 
-Retain - the right to make, own, and control a copy of the resource (e.g., download and keep your own copy)
-Revise - the right to edit, adapt, and modify your copy of the resource (e.g., translate into another language)
-Remix - the right to combine your original or revised copy of the resource with other existing material to create something new (e.g., make a mashup)
-Reuse - the right to use your original, revised, or remixed copy of the resource publicly (e.g., on a website, in a presentation, in a class)
-Redistribute - the right to share copies of your original, revised, or remixed copy of the resource with others (e.g., post a copy online or give one to a friend)
-
-The sites listed below contain more information on OER:
-- [OER Commons](https://www.oercommons.org/)
-- [Library of OER Sites](https://library.educause.edu/topics/teaching-and-learning/open-educational-resources-oer)
-- [Hewlett Foundation OER](https://hewlett.org/strategy/open-educational-resources/)
 
 ## Nginx
 
